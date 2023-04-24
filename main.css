@@ -1,0 +1,19 @@
+*{
+margin:0px;
+padding:0px;
+}
+.main1{
+	padding-left:152px;
+	text-justify:15px;
+}
+ul li{
+	display:inline;
+	padding-right:150px;
+}
+.login{
+	background-color:aqua;
+	height:125px;
+	color:balck;
+	border:1px solid aqua;
+	border-radius:10px;
+}
